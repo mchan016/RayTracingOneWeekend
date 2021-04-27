@@ -1,5 +1,5 @@
 //----------------------------------------------------------------
-// File name: Vec3.cpp
+// File name: Vec3.h
 // Date: 4/26/2021
 // Program Purpose: Header file for the Vec3 class that represents
 //					a generic vector with three components that
